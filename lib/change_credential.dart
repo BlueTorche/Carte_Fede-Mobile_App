@@ -75,7 +75,7 @@ class _ChangeCredentialPageState extends State<ChangeCredentialPage> {
             ),
             const SizedBox(width: 10),
             const Text(
-              'Créer une Carte',
+              'Modifier le Mot de Passe',
               style: TextStyle(color: Color(0xFF2f3293)),
             ),
           ],
